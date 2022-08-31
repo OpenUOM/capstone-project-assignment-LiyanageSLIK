@@ -1,4 +1,5 @@
 const express = require ("express");
+import bodyParser from "body-parser";
 
 const {
   readTeachers,
